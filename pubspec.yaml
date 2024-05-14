@@ -12,6 +12,10 @@ dependencies:
   cupertino_icons: ^1.0.8
   brick_offline_first_with_rest: ^3.0.2
   sqflite: ^2.3.3+1
+  brick_rest: ^3.0.3
+  brick_sqlite: ^3.0.1
+  brick_core: ^1.1.2
+  brick_offline_first: ^3.1.0
 
 dev_dependencies:
   flutter_test:

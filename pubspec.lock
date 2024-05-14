@@ -50,7 +50,7 @@ packages:
     source: hosted
     version: "3.0.1"
   brick_core:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: brick_core
       sha256: "8b740fffe47aa329f5edbebffbbb8fff329b6294cd7b0b7078a5a2d350b4bde3"
@@ -66,7 +66,7 @@ packages:
     source: hosted
     version: "3.0.2"
   brick_offline_first:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: brick_offline_first
       sha256: d05ebb6c85087501ce66fcde5b8a19c3a1f6f3dc8483efe5b43c44cbed9cd3ef
@@ -98,7 +98,7 @@ packages:
     source: hosted
     version: "3.1.0"
   brick_rest:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: brick_rest
       sha256: "1a46f31a188134424051616ab556fec5dbc5031b6572cbd7ed79296f9b10976b"
@@ -114,7 +114,7 @@ packages:
     source: hosted
     version: "3.0.1"
   brick_sqlite:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: brick_sqlite
       sha256: d3a810ea0b75248f85b5e701065deb8bd2da868ce9034b2eb447bad5f30ce1e2
