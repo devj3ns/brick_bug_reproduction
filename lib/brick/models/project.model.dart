@@ -9,7 +9,7 @@ class Project extends OfflineFirstWithRestModel {
     required this.id,
   });
 
-  @Sqlite(unique: true)
+  @Sqlite(index: true, unique: true)
   final UUID id;
 
   final String name;
